@@ -20,4 +20,4 @@ Open to roles in security/incident response, IT support & asset management, and 
 
 ## 📫 Connect with me
 - LinkedIn: [linkedin.com/in/marlisa-mungo-a92094135]
-- Resume: [(https://docs.google.com/document/d/1H3WwLnHMMDJboTLMt2CpNOe8RkYrm0ge/edit?usp=sharing&ouid=106702514352101464603&rtpof=true&sd=true)]
+- Resume: [https://docs.google.com/document/d/1H3WwLnHMMDJboTLMt2CpNOe8RkYrm0ge/edit?usp=sharing&ouid=106702514352101464603&rtpof=true&sd=true]
