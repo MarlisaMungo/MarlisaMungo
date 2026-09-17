@@ -11,7 +11,7 @@ Incident Response / Student Safety Specialist with a background in IT support, c
 
 ## 💼 Background
 - 16+ years of IT/hardware support experience
-- Current: Incident Response & Student Safety Specialist, analyzing security threats and risk indicators
+- Current: Incident Response & Student Safety Analyst, analyzing security threats and risk indicators
 - Former paralegal, notary, and legal document preparer
 - B.A. in Criminology, A.S. in Criminal Justice, Certificate in Paralegal Studies
 
